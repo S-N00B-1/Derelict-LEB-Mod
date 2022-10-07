@@ -1,7 +1,5 @@
-# Example LEB Mod
+# Derelict LEB Mod
 
-Example LEB-ModTools repository, it has a example map inside it as well if you want to just test out the compiler
+"Deep in this forgotten forest derelict structures encompass the battlefield."
 
-If you're actually making a map, you should replace the example map with yours
-
-For information on how to actually use this repository, please see the [LEB-ModTools documentation](https://github.com/DBTDerpbox/LEB-ModTools/wiki)
+Designed for use on the [LEM servers](http://minigames.derpbox.xyz/) 
