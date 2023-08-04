@@ -2,16 +2,16 @@
     "name": "Derelict",
     "description": "Deep in this forgotten forest derelict structures encompass the battlefield.",
     "authors": "S_N00B",
-    "version": "1",
+    "version": "2",
     "id": "derelict",
     "type": "map",
     "pack": "vanilla",
     "hassmall": false,
     "haslarge": false,
     "haslargeplus": true,
-    "hasremastered": false,
+    "hasremastered": true,
     "centercoords_small": "0 0 0",
     "centercoords_large": "0 0 0",
     "centercoords_largeplus": "-239 55 -11",
-    "centercoords_remastered": "0 0 0"
+    "centercoords_remastered": "-239 55 -11"
 }
